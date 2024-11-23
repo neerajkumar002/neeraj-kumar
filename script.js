@@ -23,6 +23,24 @@ function isDarkMode() {
 //add event
 themeChangerBtn.addEventListener("click", toggleDarkMode);
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 document.addEventListener("DOMContentLoaded", () => {
   isDarkMode();
 });
