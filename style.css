@@ -54,3 +54,10 @@ li {
   border: none;
   font-size: 1.2rem;
 }
+
+/*footer css */
+.footer {
+  background-color: var(--gray-color);
+  color: var(--black-color);
+  text-align: center;
+}
